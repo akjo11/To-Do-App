@@ -1,0 +1,16 @@
+.task {
+    display: flex;
+    flex-direction: row;
+
+    
+}
+/* 
+.Checkbox {
+    margin-right: 5px;
+    margin-left: 15px;
+    background: rgb(255, 255, 255);
+} */
+.text {
+    margin-right: 5px;
+    margin-top: 8px;
+}
